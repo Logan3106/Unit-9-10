@@ -17,6 +17,7 @@ public class StateMachine : MonoBehaviour
     public IState currentState, lastState;
     public IdleState idleState = new IdleState();
     public RunState runState = new RunState();
+    public JumpState jumpState = new JumpState();
     public Rigidbody2D rb;
     public float speed = 2;
     public float baseVelocity = 1;
@@ -99,7 +100,8 @@ public class StateMachine : MonoBehaviour
     public void ReadButtons()
     {
         //print("right button down=" + rightButtonDown);
-        print("left button down=" + leftButtonDown);
+        //print("left button down=" + leftButtonDown);
+        //print("jump button down=" + jumpButtonDown);
     }
 
     public void RightButtonPressed()
@@ -120,6 +122,13 @@ public class StateMachine : MonoBehaviour
     public void LeftButtonreleased()
     {
         leftButtonDown = false;
+    }
+
+    public void PlayerJumping()
+    {
+        Vector2 moveDirect = new Vector2(0, 1);
+        rb.AddForce(moveDirect.normalized * 2 * 200, ForceMode2D.Force);
+        print("Jumping");
     }
 
     public void InitDebugText()

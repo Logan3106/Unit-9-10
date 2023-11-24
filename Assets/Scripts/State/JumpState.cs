@@ -2,33 +2,34 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RunState : IState
+public class JumpState : IState
 {
-    float timer = 0;
-    float xVelocity = 1;
     StateMachine sm;
-    public void OnEnterState(StateMachine stateMachine)
+    
+    public void OnEnterState(StateMachine statemachine)
     {
-        sm = stateMachine;
+        sm = statemachine;
         sm.InitDebugText();
 
+        //Debug.Log("entering jump state");
     }
+
     public void UpdateState()
-    {
-        sm.ReadButtons();
+    { 
 
         if (sm.rightButtonDown || sm.leftButtonDown)
         {
-            sm.ChangeState(sm.idleState);
+            sm.ChangeState(sm.runState);
         }
     }
 
     public void FixedUpdateState()
     {
-        // Physics update
+
     }
+
     public void OnExitState()
     {
-        // Exiting this state
+        //Debug.Log("Exiting jump state ");
     }
 }

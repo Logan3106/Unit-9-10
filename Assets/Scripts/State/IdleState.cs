@@ -13,7 +13,7 @@ public class IdleState : IState
         sm.InitDebugText();
 
 
-        Debug.Log("entering idle state");
+        //Debug.Log("entering idle state");
 
         // this is how to access a method that can be shared between all states
         sm.ExampleSharedMethod();
@@ -34,12 +34,7 @@ public class IdleState : IState
             sm.transform.rotation = new Quaternion(0, 180, 0, 0);
         }
 
-        if (sm.rightButtonDown == false)
-        {
-            sm.ChangeState(sm.runState);
-        }
-
-        if(sm.leftButtonDown == false)
+        if (sm.rightButtonDown == false || sm.leftButtonDown == false)
         {
             sm.ChangeState(sm.runState);
         }
@@ -52,6 +47,6 @@ public class IdleState : IState
     }
     public void OnExitState()
     {
-        Debug.Log("Exiting idle state ");
+       // Debug.Log("Exiting idle state ");
     }
 }
