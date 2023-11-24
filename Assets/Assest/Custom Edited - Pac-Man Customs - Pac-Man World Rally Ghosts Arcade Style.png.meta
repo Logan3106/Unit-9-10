@@ -1,0 +1,1660 @@
+fileFormatVersion: 2
+guid: 60ebff1d36d1318498bec382721d22f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3215027609221315836
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_0
+  - first:
+      213: -3647610084427840173
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_1
+  - first:
+      213: 2752537465902768025
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_2
+  - first:
+      213: 415683897018458855
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_3
+  - first:
+      213: 3066070382941393572
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_4
+  - first:
+      213: -3032367792632829609
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_5
+  - first:
+      213: -5115626557985519740
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_6
+  - first:
+      213: -5892312451344149462
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_7
+  - first:
+      213: 5669755426355894004
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_8
+  - first:
+      213: 9175725132186117635
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_9
+  - first:
+      213: 1660957681082995290
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_10
+  - first:
+      213: 7328841757768209928
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_11
+  - first:
+      213: -8560948380626888022
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_12
+  - first:
+      213: 4982956060093347502
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_13
+  - first:
+      213: 2904322827594026164
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_14
+  - first:
+      213: 2957750953153122774
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_15
+  - first:
+      213: -8493703888516807642
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_16
+  - first:
+      213: -3081194967994811426
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_17
+  - first:
+      213: 1373325058133730605
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_18
+  - first:
+      213: 6333441651518262045
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_19
+  - first:
+      213: -4107880191946610578
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_20
+  - first:
+      213: -9078618211622460227
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_21
+  - first:
+      213: -1374210470550336020
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_22
+  - first:
+      213: -5894672094120695039
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_23
+  - first:
+      213: -2992254972493588196
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_24
+  - first:
+      213: 3583759789094541903
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_25
+  - first:
+      213: -3531305948991709099
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_26
+  - first:
+      213: -1980405115537123818
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_27
+  - first:
+      213: -1666510918349271652
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_28
+  - first:
+      213: 6700533010487584480
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_29
+  - first:
+      213: 1439006418639465195
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_30
+  - first:
+      213: 2880818910308442526
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_31
+  - first:
+      213: -945531019539957561
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_32
+  - first:
+      213: 7869536312296650550
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_33
+  - first:
+      213: -386203841851565897
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_34
+  - first:
+      213: 9065616789936647268
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_35
+  - first:
+      213: -720456588260385244
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_36
+  - first:
+      213: -7470209236604037177
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_37
+  - first:
+      213: 6210968456842268917
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_38
+  - first:
+      213: -4610690987772064441
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_39
+  - first:
+      213: 1322610772986026911
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_40
+  - first:
+      213: 9113379489241913853
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_41
+  - first:
+      213: -2672407176996259393
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_42
+  - first:
+      213: 7658610880128582636
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_43
+  - first:
+      213: -7755095398487166626
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_44
+  - first:
+      213: 6682298717311062162
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_45
+  - first:
+      213: 7200330687448039944
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_46
+  - first:
+      213: -8250480663841790177
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_47
+  - first:
+      213: -5696739339437100413
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_48
+  - first:
+      213: 4763793790811663919
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_49
+  - first:
+      213: -4430525077560621960
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_50
+  - first:
+      213: 4816555085993580286
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_51
+  - first:
+      213: 8683014269333360386
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_52
+  - first:
+      213: -5259563450897217622
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_53
+  - first:
+      213: -1971266217809013940
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_54
+  - first:
+      213: 2511434477126123082
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_55
+  - first:
+      213: 8124691439941987342
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_56
+  - first:
+      213: -2467275901955043918
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_57
+  - first:
+      213: -3291493458558823260
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_58
+  - first:
+      213: -8132641073174277061
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_59
+  - first:
+      213: 7363785242588530101
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_60
+  - first:
+      213: -3525074517347586934
+    second: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_61
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcb5be93921e9c20800000000000000
+      internalID: 3215027609221315836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355cb8e34f5116dc0800000000000000
+      internalID: -3647610084427840173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f961edd3af23620800000000000000
+      internalID: 2752537465902768025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2a2ac4d4ec4c500800000000000000
+      internalID: 415683897018458855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2519fb4cedc8a20800000000000000
+      internalID: 3066070382941393572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759e8cb0f8ddae5d0800000000000000
+      internalID: -3032367792632829609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48708bfcfb4a109b0800000000000000
+      internalID: -5115626557985519740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2455085b0d4a3ea0800000000000000
+      internalID: -5892312451344149462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_8
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6594745840fae40800000000000000
+      internalID: 5669755426355894004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_9
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306e3948469b65f70800000000000000
+      internalID: 9175725132186117635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5298e7f538ec0710800000000000000
+      internalID: 1660957681082995290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_11
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806d2d2bfb645b560800000000000000
+      internalID: 7328841757768209928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 125
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa57404ec6613980800000000000000
+      internalID: -8560948380626888022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 125
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea67e35c224072540800000000000000
+      internalID: 4982956060093347502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_14
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 125
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcccc3593a3e4820800000000000000
+      internalID: 2904322827594026164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 125
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1d3c032da0c0920800000000000000
+      internalID: 2957750953153122774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 125
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6240a91a05d402a80800000000000000
+      internalID: -8493703888516807642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 125
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbb2f060856d35d0800000000000000
+      internalID: -3081194967994811426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 125
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25243b3dd70f0310800000000000000
+      internalID: 1373325058133730605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 125
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bc86440a7e4e750800000000000000
+      internalID: 6333441651518262045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 125
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68a82bdab0edf6c0800000000000000
+      internalID: -4107880191946610578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_21
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 125
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4e9dc46d4420280800000000000000
+      internalID: -9078618211622460227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 125
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced8930abd2ddece0800000000000000
+      internalID: -1374210470550336020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_23
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 125
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b278236fae13ea0800000000000000
+      internalID: -5894672094120695039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 107
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c199f17c4ff5976d0800000000000000
+      internalID: -2992254972493588196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 107
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a1f456a821cb130800000000000000
+      internalID: 3583759789094541903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_26
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 107
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5502025f2f74efec0800000000000000
+      internalID: -3531305948991709099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_27
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 107
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6161b014a003484e0800000000000000
+      internalID: -1980405115537123818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_28
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 107
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d4b79362d5fd8e0800000000000000
+      internalID: -1666510918349271652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_29
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 107
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e624e7a5431dfc50800000000000000
+      internalID: 6700533010487584480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_30
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 107
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea238ca6b068f310800000000000000
+      internalID: 1439006418639465195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_31
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 107
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91a9232989baf720800000000000000
+      internalID: 2880818910308442526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_32
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 107
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c835302c8cc0e2f0800000000000000
+      internalID: -945531019539957561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_33
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 107
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637ba79d495363d60800000000000000
+      internalID: 7869536312296650550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 107
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8db8be6ade3aaf0800000000000000
+      internalID: -386203841851565897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_35
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 107
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cadf1507a8fcd70800000000000000
+      internalID: 9065616789936647268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_36
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e56a4dc8c6006f0800000000000000
+      internalID: -720456588260385244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7df56374c745890800000000000000
+      internalID: -7470209236604037177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_38
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f05d3587eac13650800000000000000
+      internalID: 6210968456842268917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_39
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d40c0a9f88300c0800000000000000
+      internalID: -4610690987772064441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_40
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bdfe39d7bda5210800000000000000
+      internalID: 1322610772986026911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_41
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df958975c5a397e70800000000000000
+      internalID: 9113379489241913853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_42
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9feefd4d3b9ead0800000000000000
+      internalID: -2672407176996259393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_43
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce38107b40ad84a60800000000000000
+      internalID: 7658610880128582636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_44
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 94
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51f7e5c2dd506490800000000000000
+      internalID: -7755095398487166626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_45
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 94
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290df50774b4cbc50800000000000000
+      internalID: 6682298717311062162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_46
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 94
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8024faa7c96bce360800000000000000
+      internalID: 7200330687448039944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 94
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f172b759c87608d80800000000000000
+      internalID: -8250480663841790177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 152
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382bbded0cd11f0b0800000000000000
+      internalID: -5696739339437100413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_49
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 54
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e6a8c86356c1240800000000000000
+      internalID: 4763793790811663919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8740a877aec9382c0800000000000000
+      internalID: -4430525077560621960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_51
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 72
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef69fbdd457d7d240800000000000000
+      internalID: 4816555085993580286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_52
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 72
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f434f2973408870800000000000000
+      internalID: 8683014269333360386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_53
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 72
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7c4a368e64207b0800000000000000
+      internalID: -5259563450897217622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_54
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4314c1b1d7a4a4e0800000000000000
+      internalID: -1971266217809013940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_55
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e75cdc9586ad220800000000000000
+      internalID: 2511434477126123082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_56
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c266371d3b0c070800000000000000
+      internalID: 8124691439941987342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_57
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 38
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd861da3a972cdd0800000000000000
+      internalID: -2467275901955043918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_58
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 38
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4541673244252d0800000000000000
+      internalID: -3291493458558823260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_59
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 22
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3412b3580e032f80800000000000000
+      internalID: -8132641073174277061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_60
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 22
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5c0c2c9ab613660800000000000000
+      internalID: 7363785242588530101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_61
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 22
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c27b2376b641fc0800000000000000
+      internalID: -3525074517347586934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
