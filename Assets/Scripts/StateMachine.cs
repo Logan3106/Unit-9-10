@@ -127,7 +127,7 @@ public class StateMachine : MonoBehaviour
     public void PlayerJumping()
     {
         Vector2 moveDirect = new Vector2(0, 1);
-        rb.AddForce(moveDirect.normalized * 2 * 200, ForceMode2D.Force);
+        rb.AddForce(moveDirect.normalized * 2 * 165, ForceMode2D.Force);
         print("Jumping");
     }
 

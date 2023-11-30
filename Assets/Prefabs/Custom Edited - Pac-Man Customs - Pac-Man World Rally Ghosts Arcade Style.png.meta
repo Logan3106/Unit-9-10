@@ -220,7 +220,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -1652,7 +1652,69 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_0: 3215027609221315836
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_1: -3647610084427840173
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_10: 1660957681082995290
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_11: 7328841757768209928
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_12: -8560948380626888022
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_13: 4982956060093347502
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_14: 2904322827594026164
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_15: 2957750953153122774
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_16: -8493703888516807642
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_17: -3081194967994811426
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_18: 1373325058133730605
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_19: 6333441651518262045
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_2: 2752537465902768025
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_20: -4107880191946610578
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_21: -9078618211622460227
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_22: -1374210470550336020
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_23: -5894672094120695039
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_24: -2992254972493588196
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_25: 3583759789094541903
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_26: -3531305948991709099
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_27: -1980405115537123818
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_28: -1666510918349271652
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_29: 6700533010487584480
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_3: 415683897018458855
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_30: 1439006418639465195
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_31: 2880818910308442526
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_32: -945531019539957561
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_33: 7869536312296650550
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_34: -386203841851565897
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_35: 9065616789936647268
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_36: -720456588260385244
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_37: -7470209236604037177
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_38: 6210968456842268917
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_39: -4610690987772064441
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_4: 3066070382941393572
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_40: 1322610772986026911
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_41: 9113379489241913853
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_42: -2672407176996259393
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_43: 7658610880128582636
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_44: -7755095398487166626
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_45: 6682298717311062162
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_46: 7200330687448039944
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_47: -8250480663841790177
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_48: -5696739339437100413
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_49: 4763793790811663919
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_5: -3032367792632829609
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_50: -4430525077560621960
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_51: 4816555085993580286
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_52: 8683014269333360386
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_53: -5259563450897217622
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_54: -1971266217809013940
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_55: 2511434477126123082
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_56: 8124691439941987342
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_57: -2467275901955043918
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_58: -3291493458558823260
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_59: -8132641073174277061
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_6: -5115626557985519740
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_60: 7363785242588530101
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_61: -3525074517347586934
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_7: -5892312451344149462
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_8: 5669755426355894004
+      Custom Edited - Pac-Man Customs - Pac-Man World Rally Ghosts Arcade Style_9: 9175725132186117635
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
