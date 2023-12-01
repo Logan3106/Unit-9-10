@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.IO.LowLevel.Unsafe;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public interface IState
 {
@@ -140,5 +141,13 @@ public class StateMachine : MonoBehaviour
     else
        lastStateText = "null";
        text = $"Current State = Idle\nLast state was {lastStateText}\nPress R to change to Run state\nPress I to change to Idle state";
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "End")
+        {
+            SceneManager.LoadScene(2);
+        }
     }
 }
